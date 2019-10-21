@@ -27,11 +27,17 @@
 * [Stateful Smart Accounts: Part 1](https://blog.wavesplatform.com/stateful-smart-accounts-part-1-315731d8c06)
 * [The shortest and simplest explanation of RIDE](https://github.com/KardanovIR/ride-introduction)
 * [Using Loops on RIDE](https://medium.com/@ilya.smagin/solution-for-loops-for-foreach-in-ride-7b5f41dc76dd)
+* [Application of Waves Smart Accounts and Smart Assets for Financial Instruments March 15 2019](https://blog.wavesplatform.com/application-of-waves-smart-accounts-and-smart-assets-for-financial-instruments-813a993b78e9)
+* [Application of Waves Smart Accounts: from Auctions to Customer Loyalty Schemes](https://blog.wavesplatform.com/application-of-waves-smart-accounts-from-auctions-to-customer-loyalty-schemes-e5f27eb99bf5)
+* [Waves Smart Asset Applications: Whitelists, Blacklists and Interval Trading](https://blog.wavesplatform.com/waves-smart-asset-applications-whitelists-blacklists-and-interval-trading-4169f11f8690)
 
 ## Sample RIDE Contract Codes
 * [Create your first crypto trading bot](https://medium.com/@ikardanov/create-your-first-crypto-trading-bot-390e3f9037e1)
 * [Demo Python Trading Bot](https://github.com/wavesplatform/demo-python-trading-bot)
 * [The shortest and simplest explanation of RIDE](https://github.com/KardanovIR/ride-introduction)
+* [Hot Potato Token](https://github.com/wavesplatform/ride-examples/blob/master/smart-assets/HotPotatoToken.ride)
+* [Using RIDE for Taxation](https://github.com/wavesplatform/ride-examples/blob/master/smart-assets/Taxation.ride)
+* [Using RIDE for Verified Trading](https://github.com/wavesplatform/ride-examples/blob/master/smart-assets/VerifiedTrading.ride)
 
 ## DApps built with RIDE
 * [Ventuary DAO](https://beta.ventuary.space) - Decentralized Autonomous Organization and social network for building, supporting and monetizing web3 solutions on the Waves blockchain.
