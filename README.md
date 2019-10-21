@@ -11,10 +11,10 @@
 ## Contents
 - [Community](#community)
 - [Articles](#articles)
-- [RIDE Courses](#course)
-- [Sample RIDE Smart contract Codes](#samples)
-- [DApps built with RIDE](#dapps)
-- [IDE | Features | Plugins](#ide)
+- [RIDE Courses](#ride-course)
+- [Sample RIDE Smart contract Codes](#sample-ride-smart-contract-codes)
+- [DApps built with RIDE](#dapps-built-with-ride)
+- [IDE | Features | Plugins](#IDE | Features | Plugins)
 - [RIDE Developer Workshops](#workshops)
 
 ## Community
@@ -25,6 +25,7 @@
 
 
 ## Articles
+* [Waves101](https://wavesplatform.com/waves-101)
 * [How to Build, Deploy and Test a Waves RIDE dApp](https://blog.wavesplatform.com/how-to-build-deploy-and-test-a-waves-ride-dapp-785311f58c2)
 * [The Hitchhiker’s Guide to Waves Smart Contracts. Part 1](https://blog.wavesplatform.com/the-hitchhikers-guide-to-waves-smart-contracts-part-1-b80aa47a745a)
 * [The Hitchhiker’s Guide to Waves Smart Contracts. Part 2](https://blog.wavesplatform.com/the-hitchhikers-guide-to-waves-smart-contracts-part-2-44621fd5a007)
