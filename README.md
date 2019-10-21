@@ -12,9 +12,9 @@
 - [Community](#community)
 - [Articles](#articles)
 - [RIDE Courses](#ride-courses)
-- [Sample Codes](#sample-codes)
+- [Boilerplates](#boilerplates)
 - [DApps built with RIDE](#dapps-built-with-ride)
-- [IDE  and Tools](#IDE-and-tools)
+- [IDE](#ide)
 - [RIDE Developer Workshops](#ride-developer-workshops)
 
 ## Community
@@ -39,7 +39,7 @@
 ## RIDE Courses
 * [Waves WEB 3.0 Course](https://stepik.org/course/54415/promo) - FREE educational course for webmasters, full-stack web developers (Node.js, PHP, Python), Indie/Games and iOS/Android developers to get get started with build trustless solutions.
 
-## Sample RIDE Contract Codes
+## Boilerplates
 * [Create your first crypto trading bot](https://medium.com/@ikardanov/create-your-first-crypto-trading-bot-390e3f9037e1)
 * [Demo Python Trading Bot](https://github.com/wavesplatform/demo-python-trading-bot)
 * [The shortest and simplest explanation of RIDE](https://github.com/KardanovIR/ride-introduction)
@@ -54,7 +54,7 @@
 
 * [Item Market](https://item.market/) - A safe place to trade your digital posessions. Blockchain technology might sound scary, but we made a solution that allows hassle-free daily interactions with the tech while keeping all the features like decentralized ownership and safe trade.
 
-## IDE | Features | Plugins
+## IDE
 * [RIDE IDE](https://ide.wavesplatform.com) - 
 * [Using Loops on RIDE](https://medium.com/@ilya.smagin/solution-for-loops-for-foreach-in-ride-7b5f41dc76dd)
 * [Waves RIDE Snippet Plugin for VSCode Editor](https://marketplace.visualstudio.com/items?itemName=wavesafrica.waves-ride-snippets)
