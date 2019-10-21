@@ -14,6 +14,10 @@
 - [Feature Updates](#feature)
 
 ## Community
+* [Global Waves Telegram Group](https://t.me/wavescommunity)
+* [Waves Developer Telegram Group](https://t.me/waves_ride_dapps_dev)
+* [Waves Africa Community](https://t.me/wavesafrica)
+
 
 ## Tutorials & Documents
 
