@@ -12,9 +12,9 @@
 - [Community](#community)
 - [Articles](#articles)
 - [RIDE Courses](#ride-courses)
-- [Sample RIDE Smart contract Codes](#sample-ride-smart-contract-codes)
+- [Sample Codes](#sample-codes)
 - [DApps built with RIDE](#dapps-built-with-ride)
-- [IDE | Features | Plugins](#IDE | Features | Plugins)
+- [IDE  and Tools](#IDE-and-tools)
 - [RIDE Developer Workshops](#ride-developer-workshops)
 
 ## Community
