@@ -11,7 +11,7 @@
 ## Contents
 - [Community](#community)
 - [Articles](#articles)
-- [RIDE Courses](#ride-courses)
+- [Courses](#courses)
 - [Boilerplates](#boilerplates)
 - [DApps built with RIDE](#dapps-built-with-ride)
 - [IDE](#ide)
@@ -36,7 +36,7 @@
 * [Application of Waves Smart Accounts: from Auctions to Customer Loyalty Schemes](https://blog.wavesplatform.com/application-of-waves-smart-accounts-from-auctions-to-customer-loyalty-schemes-e5f27eb99bf5)
 * [Waves Smart Asset Applications: Whitelists, Blacklists and Interval Trading](https://blog.wavesplatform.com/waves-smart-asset-applications-whitelists-blacklists-and-interval-trading-4169f11f8690)
 
-## RIDE Courses
+## Courses
 * [Waves WEB 3.0 Course](https://stepik.org/course/54415/promo) - FREE educational course for webmasters, full-stack web developers (Node.js, PHP, Python), Indie/Games and iOS/Android developers to get get started with build trustless solutions.
 
 ## Boilerplates
