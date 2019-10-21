@@ -11,11 +11,11 @@
 ## Contents
 - [Community](#community)
 - [Articles](#articles)
-- [RIDE Courses](#ride-course)
+- [RIDE Courses](#ride-courses)
 - [Sample RIDE Smart contract Codes](#sample-ride-smart-contract-codes)
 - [DApps built with RIDE](#dapps-built-with-ride)
 - [IDE | Features | Plugins](#IDE | Features | Plugins)
-- [RIDE Developer Workshops](#workshops)
+- [RIDE Developer Workshops](#ride-developer-workshops)
 
 ## Community
 * [Global Waves Telegram Group](https://t.me/wavescommunity)
