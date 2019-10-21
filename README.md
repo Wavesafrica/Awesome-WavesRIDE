@@ -4,7 +4,7 @@
 
 > A curated list of awesome resources : books, videos, articles, demos, tutorials about using RIDE.
 
-[RIDE](https://wavesplatform.com/technology/ride) A smart contract programming language for building DApps on Waves Blockchain.
+[RIDE](https://wavesplatform.com/technology/ride) is a Waves’ functional purpose-designed smart contract language inspired by Scala for dApp development, designed for applying scripts to assets and accounts on the Waves blockchain, as well as creating sophisticated programmable logic for the decentralised environment
 
 *List inspired by [Awesome Next.JS](https://github.com/unicodeveloper/awesome-nextjs)*
 
