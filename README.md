@@ -5,4 +5,16 @@
 
 *List inspired by [Awesome Next.JS](https://github.com/unicodeveloper/awesome-nextjs)*
 
-######Contents
+###### Contents
+
+- Community
+
+- Articles
+
+- Sample RIDE Smart contract Codes
+
+- DApps built with RIDE
+
+- Videos
+
+- Tutorials/ Documents 
