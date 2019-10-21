@@ -11,6 +11,7 @@
 ## Contents
 - [Community](#community)
 - [Articles](#articles)
+- [RIDE Courses](#course)
 - [Sample RIDE Smart contract Codes](#samples)
 - [DApps built with RIDE](#dapps)
 - [IDE | Features | Plugins](#ide)
@@ -33,6 +34,9 @@
 * [Application of Waves Smart Accounts and Smart Assets for Financial Instruments March 15 2019](https://blog.wavesplatform.com/application-of-waves-smart-accounts-and-smart-assets-for-financial-instruments-813a993b78e9)
 * [Application of Waves Smart Accounts: from Auctions to Customer Loyalty Schemes](https://blog.wavesplatform.com/application-of-waves-smart-accounts-from-auctions-to-customer-loyalty-schemes-e5f27eb99bf5)
 * [Waves Smart Asset Applications: Whitelists, Blacklists and Interval Trading](https://blog.wavesplatform.com/waves-smart-asset-applications-whitelists-blacklists-and-interval-trading-4169f11f8690)
+
+## RIDE Courses
+* [Waves WEB 3.0 Course](https://stepik.org/course/54415/promo) - FREE educational course for webmasters, full-stack web developers (Node.js, PHP, Python), Indie/Games and iOS/Android developers to get get started with build trustless solutions.
 
 ## Sample RIDE Contract Codes
 * [Create your first crypto trading bot](https://medium.com/@ikardanov/create-your-first-crypto-trading-bot-390e3f9037e1)
