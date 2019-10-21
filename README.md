@@ -1,4 +1,7 @@
-# AwesomeRIDE
+# Awesome RIDE
+
+[<img src="https://avatars2.githubusercontent.com/u/18295288?s=200&v=4" align="right" width="250">](https://wavesplatform.com/products-ride)
+
 > A curated list of awesome resources : books, videos, articles, demos, tutorials about using RIDE.
 
 [RIDE](https://wavesplatform.com/technology/ride) A smart contract programming language for building DApps on Waves Blockchain.
