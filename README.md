@@ -16,6 +16,7 @@
 - [DApps built with RIDE](#dapps-built-with-ride)
 - [IDE](#ide)
 - [RIDE Developer Workshops](#ride-developer-workshops)
+- [Videos](#videos)
 
 ## Community
 * [Global Waves Telegram Group](https://t.me/wavescommunity)
