@@ -36,6 +36,7 @@
 * [Application of Waves Smart Accounts and Smart Assets for Financial Instruments March 15 2019](https://blog.wavesplatform.com/application-of-waves-smart-accounts-and-smart-assets-for-financial-instruments-813a993b78e9)
 * [Application of Waves Smart Accounts: from Auctions to Customer Loyalty Schemes](https://blog.wavesplatform.com/application-of-waves-smart-accounts-from-auctions-to-customer-loyalty-schemes-e5f27eb99bf5)
 * [Waves Smart Asset Applications: Whitelists, Blacklists and Interval Trading](https://blog.wavesplatform.com/waves-smart-asset-applications-whitelists-blacklists-and-interval-trading-4169f11f8690)
+* [Waves-Dapp.com — Auto-generated UI for Waves dApps](https://medium.com/@ilya.smagin/waves-dapp-com-auto-generated-ui-for-waves-dapps-3f4f6c9109ce)
 
 ## Courses
 * [Waves WEB 3.0 Course](https://stepik.org/course/54415/promo) - FREE educational course for webmasters, full-stack web developers (Node.js, PHP, Python), Indie/Games and iOS/Android developers to get get started with build trustless solutions.
@@ -62,6 +63,7 @@
 * [RIDE VSCode plugin](https://marketplace.visualstudio.com/items?itemName=wavesplatform.waves-ride)
 * [Surfboard CLI tool](https://www.npmjs.com/package/@waves/surfboard)
 * [Waves Private Node](https://hub.docker.com/r/wavesplatform/waves-private-node)
+* [Waves-Dapp.com — Auto-generated UI for Waves dApps](https://waves-dapp.com/)
 
 ## RIDE Developer Workshops
 * [Blockchain Devs Warsaw - Smart Contracts and Dapps on Waves](https://www.meetup.com/Blockchain-Devs-Warsaw/events/265478112/)
